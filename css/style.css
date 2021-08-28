@@ -1,0 +1,30 @@
+.fullname{
+    display: flex;
+    
+}
+.email-info{
+    margin-left: 15px;
+}
+.phone{
+    margin-top: 15px;
+}
+#phone-info{
+    width: 215px;
+}
+p{
+    
+    margin-top: 25px;
+    font-size: 25px;
+}
+#country-info{
+    width: 215px;
+}
+.zip-code{
+    margin-top: 25px;
+}
+.check{
+    margin-top: 25px;
+}
+#subm{
+    margin-top: 25px;
+}
